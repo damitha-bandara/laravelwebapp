@@ -1,3 +1,11 @@
+1.  php artisan serve
+
+2.  composer require laravel/breeze --dev
+    install breeze (https://laravel.com/docs/10.x/starter-kits#breeze-and-blade)
+
+    php artisan breeze:install :blade, dark mode yes, default
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
